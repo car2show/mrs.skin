@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mrs.skin
+Sitemap: https://mrs.skin/sitemap.xml
